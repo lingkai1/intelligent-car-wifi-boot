@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Green1.png</file>
+        <file>Red1.png</file>
+    </qresource>
+    <qresource prefix="/abnornmal">
+        <file>abnormal/8.bmp</file>
+        <file>abnormal/64.bmp</file>
+        <file>abnormal/bia cam.bmp</file>
+        <file>abnormal/gear.bmp</file>
+        <file>abnormal/gps.bmp</file>
+        <file>abnormal/light.bmp</file>
+        <file>abnormal/radar.bmp</file>
+        <file>abnormal/startAb.png</file>
+        <file>abnormal/stopAb.png</file>
+        <file>abnormal/bio cam.bmp</file>
+        <file>abnormal/line.bmp</file>
+    </qresource>
+    <qresource prefix="/normal">
+        <file>normal/8.bmp</file>
+        <file>normal/bia cam.bmp</file>
+        <file>normal/gear.bmp</file>
+        <file>normal/gps.bmp</file>
+        <file>normal/light.bmp</file>
+        <file>normal/radar.bmp</file>
+        <file>normal/start.png</file>
+        <file>normal/stop.png</file>
+        <file>normal/bio cam.bmp</file>
+        <file>normal/64.bmp</file>
+        <file>normal/line.bmp</file>
+    </qresource>
+    <qresource prefix="/decorete">
+        <file>decorate/1.png</file>
+        <file>decorate/2.png</file>
+        <file>decorate/IAIR.png</file>
+        <file>decorate/map2de22.bmp</file>
+        <file>decorate/map3.jpg</file>
+        <file>decorate/图片1.png</file>
+        <file>decorate/新建位图图像.bmp</file>
+        <file>decorate/car.bmp</file>
+    </qresource>
+    <qresource prefix="/speedButton">
+        <file>speedButton/down.png</file>
+        <file>speedButton/up.png</file>
+    </qresource>
+</RCC>
